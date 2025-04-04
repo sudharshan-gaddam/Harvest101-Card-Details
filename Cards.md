@@ -10,6 +10,7 @@ This file lists cards from *Harvest101: Farm Deck Building* with their effects f
 | Forest Plot     | Common  | 1    | Gain 1 wood               | Basic wood source      |
 | Scarecrow       | Uncommon| 2    | Discard to negate crop loss| Event protection       |
 | Harvest Festival| Rare    | 4    | Double food this turn     | Clutch food spike      |
+| Archaeologist   | Uncommon| 1    | Add 1 <Piece of Stone> to Discard. While in hand, add 1 random Rare Card to hand when <Piece of Stone> is used | Generates rare cards |
 
 ## Combo Ideas
 - **Wheat Field + Bakery**: 2 grain → 4 food per turn.
